@@ -1,0 +1,16 @@
+{
+  "name": "omp-antigravity-tag-rename",
+  "version": "1.0.0",
+  "description": "Renames <system-conventions> on antigravity wire requests to clear false 429",
+  "main": "antigravity-tag-rename.ts",
+  "omp": {
+    "extensions": [
+      "antigravity-tag-rename.ts"
+    ]
+  },
+  "pi": {
+    "extensions": [
+      "antigravity-tag-rename.ts"
+    ]
+  }
+}
